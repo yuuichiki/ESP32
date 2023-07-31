@@ -1,1 +1,1 @@
-# ESP32
+# GUI Guider Printer demo on ESP32
